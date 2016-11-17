@@ -1,2 +1,2 @@
 # Movado2040.github.io
-A simple but intricate Press Site
+A page by page development for J5Graphics.com
