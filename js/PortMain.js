@@ -78,7 +78,11 @@ $.when( $.ajax("Projects_Data.json",{success:function(data,status,jqXHR){
 
 } }) ).then(function(){console.log("We made it, Projects_Data is here") });
 
-
+var inv = setTimeout(function () {
+	$("div#load-screen").fadeOut(800,function(){
+		$(this).css({display:"none"});
+	});
+}, 3000);
 
 // $.ajax("js/slappy.json",{
 // 	dataType:"json",
