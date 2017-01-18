@@ -1,6 +1,6 @@
 	.main{
 		height: 100%;
-		overflow-x: hidden;
+		overflow: hidden;
 		position: relative;
 	}
 
@@ -11,6 +11,7 @@
 			position:absolute;
 			width:100%;
 			z-index:10;
+			overflow-y: hidden;
 		}
 
 		.close-port-jumbotron{
@@ -523,21 +524,63 @@
 					position:relative;
 				}
 
+				.covertitle{
+					display:none;
+					margin: 0;
+					position: absolute;
+					z-index: 1;
+					top: 50%;
+					left: 50%;
+					transform: translate(-50%,-50%);
+					font-size: 8.7vw;
+					color: rgba(255,255,255,0.5);
+					width:100%;
+					text-align:center;
+					/*opacity: 0.0;*/
+					-webkit-animation: showCovertitle 2s;
+					-webkit-animation-direction: normal;
+					-webkit-animation-fill-mode:both;
+					animation: showCovertitle 2s;
+					animation-fill-mode:both;
+					animation-direction: normal;
+				}
+
 				#port-items-cont:hover .covertitle{
 					/*display:none;*/
 					-moz-animation:reveal 2s;
-					-moz-animation-direction:alternate;
-					-moz-animation-fill-mode:forwards;
+					-moz-animation-direction:normal;
+					-moz-animation-fill-mode:both;
 					-webkit-animation:reveal 2s;
-					-webkit-animation-direction:alternate;
-					-webkit-animation-fill-mode:forwards;
+					-webkit-animation-direction:normal;
+					-webkit-animation-fill-mode:both;
 					-o-animation:reveal 2s;
-					-o-animation-direction:alternate;
-					-o-animation-fill-mode:forwards;
+					-o-animation-direction:normal;
+					-o-animation-fill-mode:both;
 					animation:reveal 2s;
-					animation-direction:alternate;
-					animation-fill-mode:forwards;
+					animation-direction:normal;
+					animation-fill-mode:both;
 				}
+
+/*Keyframes for showCovertitle*/
+				@-webkit-keyframes showCovertitle {
+					from { opacity: 0.0; }
+					to { opacity: 1.0; }
+				}
+				@-o-keyframes showCovertitle {
+					from { opacity: 0.0; }
+					to { opacity: 1.0; }
+				}
+				@-moz-keyframes showCovertitle {
+					from { opacity: 0.0; }
+					to { opacity: 1.0; }
+				}
+				@keyframes showCovertitle {
+					from { opacity: 0.0; }
+					to { opacity: 1.0; }
+				}
+/*End of keyframes for showCovertitle*/
+
+
 
 /*Keyframes for reveal*/
 
@@ -568,10 +611,6 @@
 				}
 
 /*End of keyframes for reveal*/
-
-				.covertitle{
-					display:none;
-				}
 
 				@media(max-width:1024px){
 					.portfolio-header{
