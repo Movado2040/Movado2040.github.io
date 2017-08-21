@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Entrepreneur</title>
+		<link>https://www.entrepreneur.com/latest</link>
+		<description>The latest stories from Entrepreneur.</description>
+		<image><link>http://www.entrepreneur.com</link><url>http://www.entrepreneur.com/dbimages/promo/ent-logo-2012.jpg</url><title>Entrepreneur.com</title></image>
+		<language>en-us</language>
+		<copyright>Copyright 2017 Entrepreneur.com Inc., All rights reserved</copyright>
+		<generator>Entrepreneur.com</generator>
+		<managingEditor>webmaster@entrepreneur.com (webmaster)</managingEditor>
+		<ttl>5</ttl>
+		<category><![CDATA[Business]]></category>
+		<lastBuildDate>Fri, 18 Aug 2017 20:30:00 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Aug 2017 20:30:00 GMT</pubDate>
+					
+			
+		
+		
+		
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/entrepreneur/latest" /><feedburner:info uri="entrepreneur/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://entmedia.superfeedr.com/" /><xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" /><meta xmlns="http://pipes.yahoo.com" name="pipes" content="noprocess" /><feedburner:emailServiceId>entrepreneur/latest</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/entrepreneur/latest" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fentrepreneur%2Flatest" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+			<title><![CDATA[How to Run a Remote Startup Across Time Zones]]></title>
+			<description>Quick tips on building high performing remote teams.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=no3tSdNOaX0:bd_ceTjgdtU:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=no3tSdNOaX0:bd_ceTjgdtU:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=no3tSdNOaX0:bd_ceTjgdtU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=no3tSdNOaX0:bd_ceTjgdtU:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=no3tSdNOaX0:bd_ceTjgdtU:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=no3tSdNOaX0:bd_ceTjgdtU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=no3tSdNOaX0:bd_ceTjgdtU:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=no3tSdNOaX0:bd_ceTjgdtU:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/no3tSdNOaX0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 20:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Steve Williams]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/291919</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/no3tSdNOaX0/291919</link>
+
+			
+							<category>
+											<![CDATA[Startup Basics]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170810215604-GettyImages-665221898.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170810215604-GettyImages-665221898.jpeg" />
+													<media:credit role="photographer"><![CDATA[Thomas Barwick | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[How To,Starting a Business,Startup Basics,Managing Remote Teams]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/291919</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[How to Make Sure Your Business Keeps Running When You're Ready to Walk Away]]></title>
+			<description>Realize you can't hold the reins forever.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=QmWb2em_ENY:w1R2eh8bxa4:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=QmWb2em_ENY:w1R2eh8bxa4:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=QmWb2em_ENY:w1R2eh8bxa4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=QmWb2em_ENY:w1R2eh8bxa4:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=QmWb2em_ENY:w1R2eh8bxa4:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=QmWb2em_ENY:w1R2eh8bxa4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=QmWb2em_ENY:w1R2eh8bxa4:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=QmWb2em_ENY:w1R2eh8bxa4:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/QmWb2em_ENY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 20:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Bassam Samman]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/292836</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/QmWb2em_ENY/292836</link>
+
+			
+							<category>
+											<![CDATA[Inspiring Your Team]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170815202613-GettyImages-528913551.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170815202613-GettyImages-528913551.jpeg" />
+													<media:credit role="photographer"><![CDATA[Ezra Bailey | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Entrepreneurs,Exit Strategies,Young Visionaries,Team Management]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/292836</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[Why One Talent Manager Says Digitally Native Content Creators Are Not Just a Trend]]></title>
+			<description>Lisa Filipelli sat down with Jessica Abo to discuss why companies should embrace native content creators.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=6smTKCcnW-Q:s3O4OPwny_k:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=6smTKCcnW-Q:s3O4OPwny_k:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=6smTKCcnW-Q:s3O4OPwny_k:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=6smTKCcnW-Q:s3O4OPwny_k:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=6smTKCcnW-Q:s3O4OPwny_k:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=6smTKCcnW-Q:s3O4OPwny_k:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=6smTKCcnW-Q:s3O4OPwny_k:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=6smTKCcnW-Q:s3O4OPwny_k:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/6smTKCcnW-Q" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 20:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Jessica Abo]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/video/298913</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/6smTKCcnW-Q/298913</link>
+
+			
+							<category>
+											<![CDATA[Content Marketing]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170817190423-LisaF.png">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170817190423-LisaF.png" />
+													<media:credit role="photographer"><![CDATA[Lisa Filipelli]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Marketing,Content Marketing,Video,Native Advertising,Entrepreneur Network]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/video/298913</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[Instead of Staffing Up For Your Marketing Campaign, Build A Chatbot.]]></title>
+			<description>Bots are the smartest addition to your marketing team available.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=r7axWJMkEC0:GZCA64y-zHk:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=r7axWJMkEC0:GZCA64y-zHk:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=r7axWJMkEC0:GZCA64y-zHk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=r7axWJMkEC0:GZCA64y-zHk:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=r7axWJMkEC0:GZCA64y-zHk:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=r7axWJMkEC0:GZCA64y-zHk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=r7axWJMkEC0:GZCA64y-zHk:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=r7axWJMkEC0:GZCA64y-zHk:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/r7axWJMkEC0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 20:15:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Murray Newlands]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298749</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/r7axWJMkEC0/298749</link>
+
+			
+							<category>
+											<![CDATA[Chatbots]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170815171849-GettyImages-498204000.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170815171849-GettyImages-498204000.jpeg" />
+													<media:credit role="photographer"><![CDATA[Carlina Teteris | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Marketing,Sales Strategies,Artificial Intelligence,Machine Learning,Chatbots]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298749</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[25 Innovative IoT Companies and Products You Need to Know]]></title>
+			<description>The internet of things has an huge future but don't underestimate how much it is changing the world right now.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=radGdRiXyuk:dQoCVuJIWtc:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=radGdRiXyuk:dQoCVuJIWtc:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=radGdRiXyuk:dQoCVuJIWtc:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=radGdRiXyuk:dQoCVuJIWtc:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=radGdRiXyuk:dQoCVuJIWtc:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=radGdRiXyuk:dQoCVuJIWtc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=radGdRiXyuk:dQoCVuJIWtc:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=radGdRiXyuk:dQoCVuJIWtc:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/radGdRiXyuk" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 19:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Angela Ruth]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298943</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/radGdRiXyuk/298943</link>
+
+			
+							<category>
+											<![CDATA[Internet of Things]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170817185955-GettyImages-516537053.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170817185955-GettyImages-516537053.jpeg" />
+													<media:credit role="photographer"><![CDATA[Guido Mieth | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Innovation,Technology,Smart Home,Internet of Things,Smart Devices]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298943</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[Founder Struggles: How These Startups Overcame Their Obstacles (and What You Can Learn From How They Did It)]]></title>
+			<description>Every startup is going to have an uphill journey. Here's how you can survive the struggle.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ieQx-uWctLI:KoOxts5MfuY:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ieQx-uWctLI:KoOxts5MfuY:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ieQx-uWctLI:KoOxts5MfuY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ieQx-uWctLI:KoOxts5MfuY:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ieQx-uWctLI:KoOxts5MfuY:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ieQx-uWctLI:KoOxts5MfuY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ieQx-uWctLI:KoOxts5MfuY:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ieQx-uWctLI:KoOxts5MfuY:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/ieQx-uWctLI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 18:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Chirag Kulkarni]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/293456</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/ieQx-uWctLI/293456</link>
+
+			
+							<category>
+											<![CDATA[Starting a Business]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170817212745-GettyImages-508065383.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170817212745-GettyImages-508065383.jpeg" />
+													<media:credit role="photographer"><![CDATA[Hero Images | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Startups,Starting a Business,building a successful business]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/293456</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[Email Validation: A Critical Success Factor in Email Marketing]]></title>
+			<description>Unless your goal is to be a spammer, sending emails to defunct addresses is a waste of time.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=_LRBZ9yx4eI:yMUQlFgwMos:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=_LRBZ9yx4eI:yMUQlFgwMos:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=_LRBZ9yx4eI:yMUQlFgwMos:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=_LRBZ9yx4eI:yMUQlFgwMos:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=_LRBZ9yx4eI:yMUQlFgwMos:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=_LRBZ9yx4eI:yMUQlFgwMos:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=_LRBZ9yx4eI:yMUQlFgwMos:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=_LRBZ9yx4eI:yMUQlFgwMos:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/_LRBZ9yx4eI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 18:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Serenity Gibbons]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298604</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/_LRBZ9yx4eI/298604</link>
+
+			
+							<category>
+											<![CDATA[Email Marketing]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170816203025-GettyImages-687923918.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170816203025-GettyImages-687923918.jpeg" />
+													<media:credit role="photographer"><![CDATA[oatawa | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Marketing,Online Marketing,Online Business,Email Marketing,Spam]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298604</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[This Entrepreneur Got a Lot of Insulting Advice When Starting Her Business. Here's How She Bounced Back.]]></title>
+			<description>While searching for guidance through peers and networking events, Janice Omadeke was faced with "advice" that was rude and offensive.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ECoQQWN_Qns:xbPQsPJXlqk:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ECoQQWN_Qns:xbPQsPJXlqk:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ECoQQWN_Qns:xbPQsPJXlqk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ECoQQWN_Qns:xbPQsPJXlqk:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ECoQQWN_Qns:xbPQsPJXlqk:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ECoQQWN_Qns:xbPQsPJXlqk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ECoQQWN_Qns:xbPQsPJXlqk:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ECoQQWN_Qns:xbPQsPJXlqk:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/ECoQQWN_Qns" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 17:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Jason Saltzman]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/video/298449</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/ECoQQWN_Qns/298449</link>
+
+			
+							<category>
+											<![CDATA[Advice]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170816202422-JaniceOmadeke-video.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170816202422-JaniceOmadeke-video.jpeg" />
+													<media:credit role="photographer"><![CDATA[Entrepreneur Media]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Starting a Business,Workplace Diversity,Mentorship,Advice]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/video/298449</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[5 Essentials to Writing Cold Emails That Convert Prospective Clients]]></title>
+			<description>Successful freelancers know how to make a pitch that stands out from the crowd.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=5ppBGWLj4eM:ksi86pFvEw0:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=5ppBGWLj4eM:ksi86pFvEw0:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=5ppBGWLj4eM:ksi86pFvEw0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=5ppBGWLj4eM:ksi86pFvEw0:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=5ppBGWLj4eM:ksi86pFvEw0:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=5ppBGWLj4eM:ksi86pFvEw0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=5ppBGWLj4eM:ksi86pFvEw0:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=5ppBGWLj4eM:ksi86pFvEw0:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/5ppBGWLj4eM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 17:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Ryan Robinson]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/295391</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/5ppBGWLj4eM/295391</link>
+
+			
+							<category>
+											<![CDATA[Freelancers]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170814163439-GettyImages-88169497.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170814163439-GettyImages-88169497.jpeg" />
+													<media:credit role="photographer"><![CDATA[Marc Romanelli | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Sales,Email,Entrepreneurs,Pitching,Freelancers,Cold Email]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/295391</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[Debunking the 5 Biggest Myths of Entrepreneurship]]></title>
+			<description>May McCarthy of Bizzultz explains how intuition will help you achieve financial freedom.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bq-rEidnJMw:5xyLYeeQ0sg:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=bq-rEidnJMw:5xyLYeeQ0sg:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bq-rEidnJMw:5xyLYeeQ0sg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bq-rEidnJMw:5xyLYeeQ0sg:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=bq-rEidnJMw:5xyLYeeQ0sg:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bq-rEidnJMw:5xyLYeeQ0sg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bq-rEidnJMw:5xyLYeeQ0sg:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=bq-rEidnJMw:5xyLYeeQ0sg:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/bq-rEidnJMw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 17:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Alan Taylor]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298752</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/bq-rEidnJMw/298752</link>
+
+			
+							<category>
+											<![CDATA[Take It From The Pros]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170815124537-ER-081317-MayMcCarthy.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170815124537-ER-081317-MayMcCarthy.jpeg" />
+													<media:credit role="photographer"><![CDATA[May McCarthy]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Entrepreneurship,Starting a Business,Success Strategies,Myths,Podcast,Entrepreneur Radio]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298752</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[How Augmented Reality Can Help You Achieve Your Fitness Goals]]></title>
+			<description>Take advantage of the latest and the greatest in AR to help you reach your next fitness goal.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bgimvNgXC80:Z9Dk1c47c5Q:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=bgimvNgXC80:Z9Dk1c47c5Q:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bgimvNgXC80:Z9Dk1c47c5Q:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bgimvNgXC80:Z9Dk1c47c5Q:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=bgimvNgXC80:Z9Dk1c47c5Q:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bgimvNgXC80:Z9Dk1c47c5Q:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=bgimvNgXC80:Z9Dk1c47c5Q:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=bgimvNgXC80:Z9Dk1c47c5Q:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/bgimvNgXC80" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 16:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Andrew Medal]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298596</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/bgimvNgXC80/298596</link>
+
+			
+							<category>
+											<![CDATA[Personal Health]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20160825060554-Exercise.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20160825060554-Exercise.jpeg" />
+													<media:credit role="photographer"><![CDATA[Shutterstock]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Personal Health,Lifestyle,Exercise,Physical Fitness,Augmented Reality]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298596</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[Eating Less Is the Latest Silicon Valley Productivity Hack]]></title>
+			<description>Fasting is an uncomplicated way to get more alert, not just skinnier.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=JA9JQDW5XxY:xCjubDzWdpU:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=JA9JQDW5XxY:xCjubDzWdpU:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=JA9JQDW5XxY:xCjubDzWdpU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=JA9JQDW5XxY:xCjubDzWdpU:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=JA9JQDW5XxY:xCjubDzWdpU:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=JA9JQDW5XxY:xCjubDzWdpU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=JA9JQDW5XxY:xCjubDzWdpU:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=JA9JQDW5XxY:xCjubDzWdpU:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/JA9JQDW5XxY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 16:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Mansal Denton]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/296577</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/JA9JQDW5XxY/296577</link>
+
+			
+							<category>
+											<![CDATA[Business Moving Forward]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170815203502-GettyImages-692328050.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170815203502-GettyImages-692328050.jpeg" />
+													<media:credit role="photographer"><![CDATA[Kyle Igarashi | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Productivity,Entrepreneurs,Silicon Valley,Lifestyle,Concentration,fasting]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/296577</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[How Marie Tillman Overcame Personal Tragedy and Emerged as a Resilient Entrepreneur]]></title>
+			<description>The Mac &amp; Mia founder says it comes down to finding your purpose and passion and being humble enough to ask for help.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=CRmKG3vynWo:CN3EDyGjLZM:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=CRmKG3vynWo:CN3EDyGjLZM:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=CRmKG3vynWo:CN3EDyGjLZM:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=CRmKG3vynWo:CN3EDyGjLZM:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=CRmKG3vynWo:CN3EDyGjLZM:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=CRmKG3vynWo:CN3EDyGjLZM:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=CRmKG3vynWo:CN3EDyGjLZM:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=CRmKG3vynWo:CN3EDyGjLZM:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/CRmKG3vynWo" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 16:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Nina Zipkin]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298971</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/CRmKG3vynWo/298971</link>
+
+			
+							<category>
+											<![CDATA[Open Every Door]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170817222240-phpFIPHla-crop.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170817222240-phpFIPHla-crop.jpeg" />
+													<media:credit role="photographer"><![CDATA[Marie Tillman]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Leadership,Resilience,Women Entrepreneurs,Women Leaders,Open Every Door]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298971</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[SEO Tutorial: 12 Immutable Laws For Dominating Google's Search]]></title>
+			<description>Mystified by SEO? It all makes sense once you understand how Google sees it.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=2wyHRzsoAeg:4ZyIVEVvbQM:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=2wyHRzsoAeg:4ZyIVEVvbQM:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=2wyHRzsoAeg:4ZyIVEVvbQM:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=2wyHRzsoAeg:4ZyIVEVvbQM:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=2wyHRzsoAeg:4ZyIVEVvbQM:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=2wyHRzsoAeg:4ZyIVEVvbQM:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=2wyHRzsoAeg:4ZyIVEVvbQM:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=2wyHRzsoAeg:4ZyIVEVvbQM:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/2wyHRzsoAeg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 15:30:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[R.L. Adams]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298395</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/2wyHRzsoAeg/298395</link>
+
+			
+							<category>
+											<![CDATA[SEO]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170817165831-GettyImages-497035273.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170817165831-GettyImages-497035273.jpeg" />
+													<media:credit role="photographer"><![CDATA[Anatolii Babii | Getty Images]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Marketing,Google,SEO,Google SEO,Keywords,Google Rankings]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298395</feedburner:origLink></item>
+		
+		
+		<item>
+			<title><![CDATA[This New York Bakery Thrives by Hiring Anyone Who Wants to Work, No Questions Asked.]]></title>
+			<description>There is a job at Greyston Bakery for any former inmate who needs one, regardless of his or her background. Which they don't check, anyway.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ROR09QkVh9o:4SOL7e3nC7k:ShT-FJlhFPY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ROR09QkVh9o:4SOL7e3nC7k:ShT-FJlhFPY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ROR09QkVh9o:4SOL7e3nC7k:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ROR09QkVh9o:4SOL7e3nC7k:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ROR09QkVh9o:4SOL7e3nC7k:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ROR09QkVh9o:4SOL7e3nC7k:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/entrepreneur/latest?a=ROR09QkVh9o:4SOL7e3nC7k:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/entrepreneur/latest?i=ROR09QkVh9o:4SOL7e3nC7k:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/entrepreneur/latest/~4/ROR09QkVh9o" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 18 Aug 2017 15:00:00 GMT</pubDate>
+
+							<dc:creator><![CDATA[Kira Halevy]]></dc:creator>
+			
+			<dc:language>en</dc:language>
+			<dc:publisher>Entrepreneur</dc:publisher>
+			<guid isPermaLink="false">https://www.entrepreneur.com/article/298314</guid>
+			<link>http://feedproxy.google.com/~r/entrepreneur/latest/~3/ROR09QkVh9o/298314</link>
+
+			
+							<category>
+											<![CDATA[Social Entrepreneurship]]>
+									</category>
+			
+			
+			
+									<media:content medium="image" url="https://assets.entrepreneur.com/content/16x9/1300/20170814222152-greystonebakery-video.jpeg">
+						<media:thumbnail url="https://assets.entrepreneur.com/content/16x9/1300/20170814222152-greystonebakery-video.jpeg" />
+													<media:credit role="photographer"><![CDATA[YouTube]]></media:credit>
+												<media:title type="html" />
+					</media:content>
+				
+			
+							<media:keywords><![CDATA[Leadership,Food Businesses,Social Entrepreneurship,Video]]></media:keywords>
+			
+					<feedburner:origLink>https://www.entrepreneur.com/article/298314</feedburner:origLink></item>
+			</channel>
+</rss>
